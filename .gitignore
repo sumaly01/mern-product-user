@@ -1,0 +1,16 @@
+/node_modules
+/build
+/client/node_modules
+/client/.gitignore
+/server/config/dev.js
+/uploads
+
+
+
+.DS_Store
+
+npm-debug.log*
+yarn-debug.kog*
+yarn-error.log*
+
+.vscode
